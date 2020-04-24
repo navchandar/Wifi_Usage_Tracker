@@ -5,9 +5,11 @@
 [![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/T6T617N9I)
 
 
-Used to track WiFi usage by logging in to ISP website and scraping the usage data and storing using Google Forms.
+Use i-on.pyw to track WiFi usage by logging in to ISP website and scrape the usage data and store using Google Forms.
 
-Scheduled this script to run at a constant time every day.
+Use speed_recorder.pyw to periodically track connection download speed using fast.com and store using Google Forms.
+
+This script is scheduled to run at a constant time every day using Task Scheduler.
 
 
 ## Installation 
@@ -18,6 +20,9 @@ In order to use this, you need to have Python 3+ and the required modules instal
  - [Requests](https://pypi.org/project/requests/)
 
  - [ReautifulSoup](https://pypi.org/project/beautifulsoup4/)
+ 
+ - [fast](https://pypi.org/project/fast.com/)
 
  - [How to Use Task Scheduler](https://www.wikihow.com/Use-Task-Scheduler-(in-Vista))
+ 
 
