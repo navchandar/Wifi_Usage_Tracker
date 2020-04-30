@@ -5,11 +5,11 @@
 [![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/T6T617N9I)
 
 
-Use i-on.pyw to track WiFi usage by logging in to ISP website and scrape the usage data and store using Google Forms.
+Use i-on.pyw to track WiFi usage by logging in to ISP website and scrape the usage data and store using Google Forms. An interactive sample chart from this data published [here](https://docs.google.com/spreadsheets/d/e/2PACX-1vTGp6ml4xEXsW5cu43GFlSTW5n9-ucI4lSFTqu_xAcftxYFQJc4ZFyQTM476Vpyjih2rWbY8Ij6M5mB/pubchart?oid=510745775&format=interactive)
 
-Use speed_recorder.pyw to periodically track connection download speed using fast.com and store using Google Forms.
+Use speed_recorder.pyw to periodically track connection download speed using fast.com and store using Google Forms. An interactive sample chart from this data published [here](https://docs.google.com/spreadsheets/d/e/2PACX-1vSdb66ed6zPca2ScoLbcDaG1n9UgQOxVrrO4j1D2SoOq_swYSAf2_-g2HXfrzKxlmiG_K8tqWjq7tPu/pubchart?oid=327029370&format=interactive).
 
-This script is scheduled to run at a constant time every day using Task Scheduler.
+These scripts can be scheduled to run at a constant time period, every day using Task Scheduler.
 
 
 ## Installation 
